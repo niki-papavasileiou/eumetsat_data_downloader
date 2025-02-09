@@ -213,7 +213,8 @@ class DownloaderApp(QWidget):
             self.btn_stop.setEnabled(True)
             self.btn_download.setEnabled(False)
             self.collected_data_thread = threading.Thread(
-                target=download_col_realtime, args=(self.logger, self.downloading)
+                target=download_col_realtime, args=(self.logger, self.downloading, self.selected_folder
+)
             )
             self.collected_data_thread.start()
 
