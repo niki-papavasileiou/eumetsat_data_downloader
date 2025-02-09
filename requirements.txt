@@ -1,0 +1,6 @@
+PyQt5==5.15.10
+numpy==2.2.2
+pandas==2.2.3
+satpy==0.54.0
+netCDF4==1.7.2
+eumdac==3.0.0
