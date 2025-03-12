@@ -1,0 +1,33 @@
+2025-03-12 20:12:36,128 - INFO - Selected folder: D:/accum_rec_mwave
+2025-03-12 20:12:37,956 - INFO - Real-time data download started...
+2025-03-12 20:12:40,216 - INFO - File MyData\firerisk\S-LSA_-HDF5_LSASAF_MSG_FRM-F120_Euro_202503171200 already downloaded. Skipping.
+2025-03-12 20:12:41,430 - INFO - Downloading product MSG3-SEVI-MSGCLMK-0100-0100-20250312173000.000000000Z-NA...
+2025-03-12 20:12:42,751 - INFO - Download of product MSG3-SEVI-MSGCLMK-0100-0100-20250312173000.000000000Z-NA finished.
+2025-03-12 20:12:42,754 - INFO - Processing finished. Waiting for the next product...
+
+2025-03-12 20:12:44,419 - INFO - File MyData\IASI\IASI_SND_02_M01_20250312140557Z_20250312154453Z_N_O_20250312150209Z already downloaded. Skipping.
+2025-03-12 20:12:45,869 - INFO - Downloading product MSG3-SEVI-MSG15-0100-NA-20250312175742.887000000Z-NA...
+2025-03-12 20:14:25,886 - INFO - Download of product MSG3-SEVI-MSG15-0100-NA-20250312175742.887000000Z-NA finished.
+2025-03-12 20:14:27,379 - INFO - Unzipped contents of MyData\SEVIRI\MSG3-SEVI-MSG15-0100-NA-20250312175742.887000000Z-NA.
+2025-03-12 20:14:27,380 - INFO - Processing SEVIRI data from MSG3-SEVI-MSG15-0100-NA-20250312175742.887000000Z-NA...
+2025-03-12 20:14:28,387 - INFO - Flipping Dataset unknown_name upsidedown.
+2025-03-12 20:14:28,389 - INFO - Flipping Dataset unknown_name leftright.
+2025-03-12 20:14:31,053 - INFO - Using default KDTree resampler
+2025-03-12 20:14:37,259 - INFO - Flipping Dataset unknown_name upsidedown.
+2025-03-12 20:14:37,262 - INFO - Flipping Dataset unknown_name leftright.
+2025-03-12 20:14:39,864 - INFO - Using default KDTree resampler
+2025-03-12 20:14:45,412 - INFO - Flipping Dataset unknown_name upsidedown.
+2025-03-12 20:14:45,415 - INFO - Flipping Dataset unknown_name leftright.
+2025-03-12 20:14:47,833 - INFO - Using default KDTree resampler
+2025-03-12 20:14:53,178 - INFO - Flipping Dataset unknown_name upsidedown.
+2025-03-12 20:14:53,179 - INFO - Flipping Dataset unknown_name leftright.
+2025-03-12 20:14:55,629 - INFO - Using default KDTree resampler
+2025-03-12 20:15:01,394 - INFO - Flipping Dataset unknown_name upsidedown.
+2025-03-12 20:15:01,396 - INFO - Flipping Dataset unknown_name leftright.
+2025-03-12 20:15:03,879 - INFO - Using default KDTree resampler
+2025-03-12 20:15:09,282 - INFO - Flipping Dataset unknown_name upsidedown.
+2025-03-12 20:15:09,284 - INFO - Flipping Dataset unknown_name leftright.
+2025-03-12 20:15:12,191 - INFO - Using default KDTree resampler
+2025-03-12 20:15:27,746 - INFO - Processing finished. Waiting for the next product...
+
+2025-03-12 20:15:30,081 - INFO - Downloading product W_XX-EUMETSAT-Darmstadt,IMG+SAT,MTI1+FCI-1C-RRAD-FDHSI-FD--x-x---x_C_EUMT_20250312180248_IDPFI_OPE_20250312180007_20250312180924_N__O_0109_0000...
